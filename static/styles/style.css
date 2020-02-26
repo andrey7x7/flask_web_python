@@ -1,0 +1,47 @@
+#tab1{
+	border-collapse: collapse;
+	//background-color: silver;
+	text-align: center;
+	padding:5px; 
+	margin:5px;
+	border: 3px solid #000000;
+	//border-radius: 20px;
+	width: 900;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+#form1{
+	border-collapse: collapse;
+	//background-color: silver;
+	text-align: center;
+	padding:5px; 
+	margin:5px;
+	border: 3px solid #000000;
+	//border-radius: 20px;
+	width: 900;
+	position: absolute;
+	top: 400px;
+	left: 100px;
+}
+
+th{
+	word-wrap:break-word;
+	background-color: #D35C17;
+	border: 1px solid #000000;
+	padding:5px; 
+	margin:5px;
+}
+
+.cl_tab1{
+	color: black;
+	background-color: silver;
+	border: 1px solid black;
+}
+
+.cl_tab2{
+	color: white;
+	background-color: green;
+	border: 1px solid black;
+}
